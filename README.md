@@ -76,7 +76,7 @@ I build high-scale, event-driven backend systems, with 9 years of experience acr
 
 ## Certifications
 
-- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/95326077-41f3-43ee-b5f8-30dc2169c699)**
 
 ---
 
