@@ -68,12 +68,6 @@ I build high-scale, event-driven backend systems, with 9 years of experience acr
 
 ---
 
-## Projects
-
-**[Restomart](https://restomart.in)**: a live B2B marketplace in Chennai where restaurants order their supplies. Built from scratch by a single engineer, with ordering, order processing, batch-managed inventory and automated PDF invoicing. Runs on AWS (ECR, EC2, Route 53) with Docker, CI/CD through GitHub Actions, and automatic TLS through Let's Encrypt.
-
----
-
 ## Certifications
 
 - **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/95326077-41f3-43ee-b5f8-30dc2169c699)**
